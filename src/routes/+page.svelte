@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		to your new<br />Club-info app
+		au Club Info du lycée Voltaire
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		Pour modifier cette page, édite le fichier  <strong>src/routes/+page.svelte</strong>
 	</h2>
 
 	<Counter />
